@@ -1,5 +1,6 @@
 <h2><img src="https://github.com" width="30"/> Nice to see you.</h2>
 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behruz11&layout=compact&bg_color=45,E76544,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true)
 ### Visitor
 <table>
   <tr>
